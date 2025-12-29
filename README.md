@@ -97,7 +97,7 @@ A **Gradio-based web interface** is included to perform real-time English–Urdu
 ## 🧑‍💻 Author
 
 **Moiz Sajjad**  
-Department of Computer Science  
+Department of Data Science  
 FAST NUCES, Islamabad
 
 ---
