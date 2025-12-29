@@ -1,0 +1,2 @@
+# English-Urdu-Neural-Machine-Translation-with-LSTM-and-Transformer-Architectures-on-the-UMC005-Corpus
+English–Urdu Neural Machine Translation using Seq2Seq LSTM with Bahdanau Attention and Transformer models. Trained from scratch on the UMC005 Quran corpus in a low-resource setting, evaluated using BLEU, ROUGE-L, and perplexity, with attention visualization and a Gradio-based interactive translation interface.
